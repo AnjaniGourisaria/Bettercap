@@ -1,2 +1,2 @@
 # Bettercap
-sudo nmap -sn <ip>/<subnet>
+sudo nmap -sn ip/subnet
