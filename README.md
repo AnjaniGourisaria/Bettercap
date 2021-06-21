@@ -1,3 +1,4 @@
 # Bettercap
-sudo nmap -sn ip/subnet \n
+sudo nmap -sn ip/subnet
+
 Http to https redirect with HTS
